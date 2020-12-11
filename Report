@@ -1,4 +1,4 @@
-#Introduction/Business Problem
+Introduction/Business Problem
 
 Toronto is the largest metropolitan area in Canada. The city of over six million people is the center of the country’s financial commercial efforts. 
 It is growing and projects to attract many people and businesses over the coming decade.
@@ -10,7 +10,7 @@ Our target audience are twofold; individuals/families looking to relocate to a g
 and businesses – established or start-up, that wish to leverage the commercial and financial advantages not just of Canada, but North America in general.
 
 
-#Data
+Data
 
 The datasets are compilations of several sites that focus on geospatial and demography.  The first database is https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M. 
 This provides the individual boroughs and neighborhoods within Toronto as well as the accompanying postal codes.  This is the geographical foundation for our study.
