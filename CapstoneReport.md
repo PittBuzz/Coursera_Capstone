@@ -1,11 +1,11 @@
-#Introduction/Business Problem
+# Introduction/Business Problem
 
 Toronto is the largest metropolitan area in Canada. The city of over six million people is the center of the country’s financial commercial efforts. It is growing and projects to attract many people and businesses over the coming decade.
 The objective of this study is to identify and cluster the various neighborhoods of Toronto and into similarities for business, dining, entertainment, and housing.  The results of this analysis will be applied to individuals and corporations looking to relocate to Toronto.
 Our target audience are twofold; individuals/families looking to relocate to a growing, dynamic and relatively safe metropolitan area, and businesses – established or start-up, that wish to leverage the commercial and financial advantages not just of Canada, but North America in general.
 
 
-#Data
+# Data
 
 The datasets are compilations of several sites that focus on geospatial and demography.  The first database is https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M. This provides the individual boroughs and neighborhoods within Toronto as well as the accompanying postal codes.  This is the geographical foundation for our study.
 Our next data source provides that latitudes and longitudes for Toronto and its constituent neighborhoods, http://cocl.us/Geospatial_data.  We will be able to build out our interactive and detailed maps.
